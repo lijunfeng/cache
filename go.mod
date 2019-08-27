@@ -1,4 +1,4 @@
-module cache
+module github.com/lijunfeng/cache
 
 go 1.12
 
