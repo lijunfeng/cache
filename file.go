@@ -27,7 +27,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 )
 
 // Item represents a cache item.
